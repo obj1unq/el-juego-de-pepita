@@ -12,9 +12,9 @@ En este repositorio se encuentran los siguientes enunciados:
 ## Documentación
 Pueden encontrar una explicación de Wollok Game en: [Sitio de Wollok - Documentación - Wollok Game](https://www.wollok.org/documentation/wollok_game/).
 
-También tienen los _WollokDoc_ [en el sitio](https://www.wollok.org/documentation/language/#wollok.game). Pero dada la faltante temporal de información en el sitio sobre de Wollok Game se pueden ver todas las definiciones desde: 
-[Definición Documentada de Game](https://github.com/uqbar-project/wollok-language/blob/master/src/wollok/game.wlk)
+También tienen los _WollokDoc_ [en el sitio](https://www.wollok.org/documentation/language/#wollok.game). Por faltante temporal de parte de la documentación en el sitio sobre de Wollok Game se pueden ver todas las definiciones desde: 
+[Definiciones Documentadas de Game](https://github.com/uqbar-project/wollok-language/blob/master/src/wollok/game.wlk)
 
 En General:
-[Definición Documentada del Lenguaje](https://github.com/uqbar-project/wollok-language/tree/master/src/wollok)
+[Definiciones Documentadas del Lenguaje](https://github.com/uqbar-project/wollok-language/tree/master/src/wollok)
 
