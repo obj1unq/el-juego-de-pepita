@@ -1,19 +1,16 @@
 # Tutorial 2
 
-> Objetivo del nivel: acciones con las teclas
+> Objetivo del nivel: mejorar accionar de las teclas
 
 ### Contexto
-Ahora necesitamos que pepita gaste energía cada vez que se mueve, es por eso que en este nivel necesitamos tener mayor control sobre qué hacer cuando se presionen determinadas teclas. Ya están configuradas las teclas de movimiento izquierda y derecha para que Pepita se mueva y pierda la energía correspondiente por volar dicha distancia.
 
-Como Pepita pierde energía al moverse, vamos a necesitar que pueda comer las comidas para evitar que se quede sin energía...
-
+En este segundo nivel se necesita que pepita gaste energía cada vez que se mueve, es por eso se necesita tener un mayor control sobre qué ocurre cuando se presionan determinadas teclas. Ya están configuradas las teclas de movimiento izquierda y derecha para que Pepita se mueva por el tablero, pero se necesita que además se consuma energía en función de la distancia.
 
 ### Requerimientos
-- Pepita comienza con energía = 100.
+- Pepita comienza con energía = 500.
 - Configurar las teclas arriba, abajo, izquierda y derecha para que mueva a Pepita a las respectivas posiciones. Pepita debe volar hacia la nueva distancia, y gastará 9 joules de energía por cada kilómetro volado (considerar la distancia entre la posición nueva y la anterior).
-- Hacer que Pepita se vea gris al quedarse sin energía. Además, no debería poder moverse una vez que se quedó sin energía.
-- Configurar la C para que Pepita coma la comida sobre la que está parada. Al comer una comida, pepita aumenta su energía correspondiente a la otorgada por la comida y ésta última desaparece del juego.
-> Para obtener el objeto con el que pepita se encuentra colisionando usar el mensaje `game.uniqueCollider(pepita)`.
+- Cuando Pepita agota su energía, no debe poder moverse mas y su aspecto cambia (se ve gris)
+
 - **BONUS**: 
   - Antes de mover a pepita, controlar que no se vaya del rango visible del juego.
   - Luego de moverse, si se queda sin energía, terminar el juego.
