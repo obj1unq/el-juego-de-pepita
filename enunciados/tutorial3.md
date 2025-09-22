@@ -4,7 +4,7 @@
 
 ### Contexto
 ¡Nuestros niveles van tomando onda! Ahora queremos agregar acciones que se ejecuten cuando Pepita colisione con otro objeto. Decimos que se produce una colisión entre dos objetos cuando ambos se encuentran en la misma posición. 
-El objetivo del juego en este nivel es que pepita coma toda la comida y luego llegue al nido para terminar el juego. Entonces la idea de colisionar se utilizará para que pepita pueda comer el alimento y para terminar el juego cuando llega al nido
+El objetivo del juego en este nivel es que pepita coma toda la comida (la manzana y el alpiste) y luego llegue al nido para terminar el juego. Entonces la idea de colisionar se utilizará para que pepita pueda comer el alimento y para terminar el juego cuando llega al nido
 
 ### Requerimientos
 - Cuando Pepita colisiona con Silvestre pierde, por ende debería terminar el juego.
