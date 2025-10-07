@@ -25,5 +25,5 @@ Los alimentos aparecen de manera aleatoria en el juego.
    El montoncito de alpiste tiene un peso al azar de entre 40 y 100 gramos.
 
 ### Bonus
-Hacer que haya varios muros por los cuales pepita no pueda circular
-Agregar la posibilidad de dibujar un mapa de manera sensata
+1. Hacer que haya varios muros por los cuales pepita no pueda circular
+2. Agregar la posibilidad de dibujar un mapa de manera sensata
