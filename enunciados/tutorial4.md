@@ -14,9 +14,8 @@ Los alimentos aparecen de manera aleatoria en el juego.
 ### Requerimientos
 
 #### Colisión con comidas preestablecidas
-1. Hacer que pepita coma una comida cuando colisiona contra ella. Una vez comida la comida, debe desaparecer del juego. 
-2. Hacer que pueda haber diferentes manzanas. Cada manzana tiene su propia posición. 
-3. Pepita puede comer diferentes montoncitos de alpiste. Cada montoncito podrá tener peso diferente. La energia que aporta es de una caloría por cada gramo de peso.
+1. Hacer que pueda haber diferentes manzanas. Cada manzana tiene su propia posición. 
+2. Pepita puede comer diferentes montoncitos de alpiste. Cada montoncito podrá tener peso diferente. La energia que aporta es de una caloría por cada gramo de peso.
    
 ### Aparición aleatoria de comidas
  
@@ -26,4 +25,5 @@ Los alimentos aparecen de manera aleatoria en el juego.
    El montoncito de alpiste tiene un peso al azar de entre 40 y 100 gramos.
 
 ### Bonus
+Hacer que haya varios muros por los cuales pepita no pueda circular
 Agregar la posibilidad de dibujar un mapa de manera sensata
